@@ -13,11 +13,15 @@ const exerciseSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
-  totalExercise: {
+  total: {
     type: Number,
   },
   imageURL: {
     type: String,
+  },
+  exercises: {
+    type: Array,
+    required: true,
   },
 });
 

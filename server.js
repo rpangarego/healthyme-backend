@@ -3,6 +3,8 @@ const mongoose = require("mongoose");
 require("dotenv").config();
 const cors = require("cors");
 
+const app = express();
+
 // setup mongodb connection
 mongoose.connect(process.env.DATABASE_URL, {
   useNewUrlParser: true,
@@ -11,8 +13,6 @@ mongoose.connect(process.env.DATABASE_URL, {
 const db = mongoose.connection;
 db.on("open", () => console.log("Connected to mongodb!"));
 db.once("error", (error) => console.error(error));
-
-const app = express();
 
 // middleware
 app.use(express.json());
@@ -40,8 +40,8 @@ const exercicesRoute = require("./routes/exercisesRoute");
 app.use("/api/v1/exercises", exercicesRoute);
 
 // food route
-// const foodRoute = require("./routes/foodRoute");
-// app.use("/api/v1/foods", foodRoute);
+const foodRoute = require("./routes/foodRoute");
+app.use("/api/v1/foods", foodRoute);
 
 app.listen(PORT, () =>
   console.log("Server listening to http://localhost:" + PORT)
