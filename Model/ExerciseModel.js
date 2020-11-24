@@ -22,6 +22,7 @@ const exerciseSchema = new mongoose.Schema({
   exercises: {
     type: Array,
     required: true,
+    default: [],
   },
 });
 

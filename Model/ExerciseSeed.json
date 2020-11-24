@@ -1,0 +1,171 @@
+[
+  {
+    "title": "Abs & Obliques",
+    "description": "Targets the obliques to work all of the abdominal muscles.",
+    "duration": "5 Minutes",
+    "total": 10,
+    "imageURL": null,
+    "exercises": [
+      {
+        "name": "Abs Stretch",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2014/11/ab-stretch-exercise-illustration-768x512.jpg",
+        "animateImageURL": null
+      },
+      {
+        "name": "Standing Side Bend",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2016/02/standing-side-bend-exercise-illustration-spotebi-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2016/02/standing-side-bend-exercise-illustration-spotebi.gif"
+      },
+      {
+        "name": "Crunches",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2014/10/crunches-exercise-illustration-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2014/10/crunches-exercise-illustration.gif"
+      },
+      {
+        "name": "Straight Leg Raise",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2014/10/straight-leg-raise-exercise-illustration-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2014/10/straight-leg-raise-exercise-illustration.gif"
+      },
+      {
+        "name": "V Ups",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2015/05/v-ups-exercise-illustration-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2015/05/v-ups-exercise-illustration.gif"
+      },
+      {
+        "name": "Plank Bird Dog",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2016/02/plank-bird-dog-exercise-illustration-spotebi-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2016/02/plank-bird-dog-exercise-illustration-spotebi.gif"
+      },
+      {
+        "name": "Sit Up",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2014/10/sit-up-exercise-illustration-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2014/10/sit-up-exercise-illustration.gif"
+      },
+      {
+        "name": "Burpees",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2014/10/burpees-exercise-illustration-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2014/10/burpees-exercise-illustration.gif"
+      },
+      {
+        "name": "Spiderman Plank",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2015/01/spiderman-plank-exercise-illustration-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2015/01/spiderman-plank-exercise-illustration.gif"
+      },
+      {
+        "name": "Bicycle Crunches",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2014/10/bicycle-crunches-exercise-illustration-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2014/10/bicycle-crunches-exercise-illustration.gif"
+      }
+    ]
+  },
+
+  {
+    "title": "Legs",
+    "description": "Build strength and power by working your lower-body",
+    "duration": "5 Minutes",
+    "total": 10,
+    "imageURL": null,
+    "exercises": [
+      {
+        "name": "Jumping Jacks",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2014/10/jumping-jacks-exercise-illustration-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2014/10/jumping-jacks-exercise-illustration.gif"
+      },
+      {
+        "name": "Jump Squat",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2015/08/jump-squat-exercise-illustration.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2015/08/jump-squat-exercise-illustration.gif"
+      },
+      {
+        "name": "Front And Back Lunges",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2016/09/front-and-back-lunges-exercise-illustration-spotebi-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2016/09/front-and-back-lunges-exercise-illustration-spotebi.gif"
+      },
+      {
+        "name": "High Knees",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2014/10/high-knees-exercise-illustration-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2014/10/high-knees-exercise-illustration.gif"
+      },
+      {
+        "name": "Frog Jumps",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2015/01/frog-jumps-exercise-illustration-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2015/01/frog-jumps-exercise-illustration.gif"
+      },
+      {
+        "name": "Good Mornings",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2017/07/good-mornings-exercise-illustration-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2017/07/good-mornings-exercise-illustration.gif"
+      },
+      {
+        "name": "Heisman",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2016/01/heisman-exercise-illustration-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2016/01/heisman-exercise-illustration-spotebi.gif"
+      },
+      {
+        "name": "High Kicks",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2015/01/high-kicks-exercise-illustration-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2015/01/high-kicks-exercise-illustration.gif"
+      },
+      {
+        "name": "Burpees",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2014/10/burpees-exercise-illustration-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2014/10/burpees-exercise-illustration.gif"
+      },
+      {
+        "name": "Cossack Squat",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2016/04/cossack-squat-exercise-illustration-spotebi-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2016/04/cossack-squat-exercise-illustration-spotebi.gif"
+      }
+    ]
+  },
+
+  {
+    "title": "Chest",
+    "description": "Build a bigger, better, stronger chest muscles",
+    "duration": "4 Minutes",
+    "total": 8,
+    "imageURL": null,
+    "exercises": [
+      {
+        "name": "Open Arm Chest Stretch",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2015/06/open-arm-chest-stretch-exercise-illustration-768x512.jpg",
+        "animateImageURL": null
+      },
+      {
+        "name": "Butterfly Dips",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2016/12/butterfly-dips-exercise-illustration-spotebi-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2016/12/butterfly-dips-exercise-illustration-spotebi.gif"
+      },
+      {
+        "name": "Around The Worlds",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2016/02/around-the-worlds-exercise-illustration-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2016/02/around-the-worlds-exercise-illustration-spotebi.gif"
+      },
+      {
+        "name": "Chest Press",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2016/02/chest-press-with-legs-extended-exercise-illustration-spotebi-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2016/02/chest-press-with-legs-extended-exercise-illustration-spotebi.gif"
+      },
+      {
+        "name": "Push Up",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2014/10/push-up-exercise-illustration-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2014/10/push-up-exercise-illustration.gif"
+      },
+      {
+        "name": "Dumbbell Pullover",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2015/04/dumbbell-pullover-exercise-illustration-1024x683.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2015/04/dumbbell-pullover-exercise-illustration-spotebi.gif"
+      },
+      {
+        "name": "Knee Push Up",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2014/10/knee-push-up-exercise-illustration-768x512.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2014/10/knee-push-up-exercise-illustration.gif"
+      },
+      {
+        "name": "Chest Fly",
+        "imageURL": "https://www.spotebi.com/wp-content/uploads/2015/04/chest-fly-exercise-illustration-1024x683.jpg",
+        "animateImageURL": "https://www.spotebi.com/wp-content/uploads/2015/04/chest-fly-exercise-illustration-spotebi.gif"
+      }
+    ]
+  }
+]

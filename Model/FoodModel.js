@@ -23,9 +23,13 @@ const FoodSchema = new mongoose.Schema({
   },
   ingredients: {
     type: Array,
+    required: true,
+    default: [],
   },
   steps: {
     type: Array,
+    required: true,
+    default: [],
   },
 });
 

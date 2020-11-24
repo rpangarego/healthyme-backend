@@ -25,13 +25,22 @@ router.get("/:id", async (req, res) => {
 
 // STORE EXERCISE DATA
 router.post("/", async (req, res) => {
-  const { title, description, duration, totalExercise, imageURL } = req.body;
+  const {
+    title,
+    description,
+    duration,
+    totalExercise,
+    imageURL,
+    exercises,
+  } = req.body;
+
   const exerciseData = new Exercise({
     title,
     description,
     duration,
     totalExercise,
     imageURL,
+    exercises,
   });
 
   try {

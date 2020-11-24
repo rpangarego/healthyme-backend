@@ -1,0 +1,119 @@
+Abs & Obliques:
+    AB Stretch
+    - img: https://www.spotebi.com/wp-content/uploads/2014/11/ab-stretch-exercise-illustration-768x512.jpg
+      gif: x
+      
+    Standing Side Bend
+    - img: https://www.spotebi.com/wp-content/uploads/2016/02/standing-side-bend-exercise-illustration-spotebi-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2016/02/standing-side-bend-exercise-illustration-spotebi.gif
+      
+    Crunches
+    - img: https://www.spotebi.com/wp-content/uploads/2014/10/crunches-exercise-illustration-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2014/10/crunches-exercise-illustration.gif
+      
+    Straight Leg Raise
+    - img: https://www.spotebi.com/wp-content/uploads/2014/10/straight-leg-raise-exercise-illustration-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2014/10/straight-leg-raise-exercise-illustration.gif
+      
+    V Ups
+    - img: https://www.spotebi.com/wp-content/uploads/2015/05/v-ups-exercise-illustration-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2015/05/v-ups-exercise-illustration.gif
+    
+    Plank Bird Dog
+    - img: https://www.spotebi.com/wp-content/uploads/2016/02/plank-bird-dog-exercise-illustration-spotebi-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2016/02/plank-bird-dog-exercise-illustration-spotebi.gif
+    
+    Sit Up
+    - img: https://www.spotebi.com/wp-content/uploads/2014/10/sit-up-exercise-illustration-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2014/10/sit-up-exercise-illustration.gif
+    
+    Burpees
+    - img: https://www.spotebi.com/wp-content/uploads/2014/10/burpees-exercise-illustration-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2014/10/burpees-exercise-illustration.gif
+      
+    Spiderman Plank
+    - img: https://www.spotebi.com/wp-content/uploads/2015/01/spiderman-plank-exercise-illustration-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2015/01/spiderman-plank-exercise-illustration.gif
+    
+    Bicycle Crunches
+    - img: https://www.spotebi.com/wp-content/uploads/2014/10/bicycle-crunches-exercise-illustration-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2014/10/bicycle-crunches-exercise-illustration.gif
+
+
+Legs:
+    Jumping Jacks
+    - img: https://www.spotebi.com/wp-content/uploads/2014/10/jumping-jacks-exercise-illustration-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2014/10/jumping-jacks-exercise-illustration.gif
+    
+    Jump Squat
+    - img: https://www.spotebi.com/wp-content/uploads/2015/08/jump-squat-exercise-illustration.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2015/08/jump-squat-exercise-illustration.gif
+      
+    Front And Back Lunges 
+    - img: https://www.spotebi.com/wp-content/uploads/2016/09/front-and-back-lunges-exercise-illustration-spotebi-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2016/09/front-and-back-lunges-exercise-illustration-spotebi.gif
+      
+    High Knees
+    - img: https://www.spotebi.com/wp-content/uploads/2014/10/high-knees-exercise-illustration-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2014/10/high-knees-exercise-illustration.gif
+      
+    Frog Jumps
+    - img: https://www.spotebi.com/wp-content/uploads/2015/01/frog-jumps-exercise-illustration-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2015/01/frog-jumps-exercise-illustration.gif
+      
+    Good Mornings
+    - img: https://www.spotebi.com/wp-content/uploads/2017/07/good-mornings-exercise-illustration-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2017/07/good-mornings-exercise-illustration.gif
+      
+      Heisman
+    - img: https://www.spotebi.com/wp-content/uploads/2016/01/heisman-exercise-illustration-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2016/01/heisman-exercise-illustration-spotebi.gif
+      
+      High Kicks 
+    - img: https://www.spotebi.com/wp-content/uploads/2015/01/high-kicks-exercise-illustration-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2015/01/high-kicks-exercise-illustration.gif
+      
+      Burpees
+    - img: https://www.spotebi.com/wp-content/uploads/2014/10/burpees-exercise-illustration-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2014/10/burpees-exercise-illustration.gif
+      
+      Cossack Squat
+    - img: https://www.spotebi.com/wp-content/uploads/2016/04/cossack-squat-exercise-illustration-spotebi-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2016/04/cossack-squat-exercise-illustration-spotebi.gif
+      
+      
+Chest:
+    Open Arm Chest Stretch
+    - img: https://www.spotebi.com/wp-content/uploads/2015/06/open-arm-chest-stretch-exercise-illustration-768x512.jpg
+      gif: x
+      
+    Butterfly Dips
+    - img: https://www.spotebi.com/wp-content/uploads/2016/12/butterfly-dips-exercise-illustration-spotebi-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2016/12/butterfly-dips-exercise-illustration-spotebi.gif
+      
+      Around The Worlds
+    - img: https://www.spotebi.com/wp-content/uploads/2016/02/around-the-worlds-exercise-illustration-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2016/02/around-the-worlds-exercise-illustration-spotebi.gif
+      
+      Chest Press
+    - img: https://www.spotebi.com/wp-content/uploads/2016/02/chest-press-with-legs-extended-exercise-illustration-spotebi-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2016/02/chest-press-with-legs-extended-exercise-illustration-spotebi.gif
+      
+      Push Up
+    - img: https://www.spotebi.com/wp-content/uploads/2014/10/push-up-exercise-illustration-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2014/10/push-up-exercise-illustration.gif
+      
+      Dumbbell Pullover
+    - img: https://www.spotebi.com/wp-content/uploads/2015/04/dumbbell-pullover-exercise-illustration-1024x683.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2015/04/dumbbell-pullover-exercise-illustration-spotebi.gif
+      
+      Knee Push Up
+    - img: https://www.spotebi.com/wp-content/uploads/2014/10/knee-push-up-exercise-illustration-768x512.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2014/10/knee-push-up-exercise-illustration.gif
+      
+      Chest Fly
+    - img: https://www.spotebi.com/wp-content/uploads/2015/04/chest-fly-exercise-illustration-1024x683.jpg
+      gif: https://www.spotebi.com/wp-content/uploads/2015/04/chest-fly-exercise-illustration-spotebi.gif
+      
+      
+
