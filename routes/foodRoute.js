@@ -13,7 +13,7 @@ router.get("/", async (req, res) => {
 });
 
 // GET SINGLE FOOD DATA BY ID
-router.get("/:id", async (req, res) => {
+router.get("/:id/recipe", async (req, res) => {
   try {
     const food = await Food.findById(req.params.id);
     res.status(200).json(food);
